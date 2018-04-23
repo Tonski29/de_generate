@@ -1,0 +1,51 @@
+Thu Apr 19 22:27:58 2018 -> --------------------------------------
+Thu Apr 19 22:27:58 2018 -> freshclam daemon 0.99.4 (OS: linux-gnu, ARCH: x86_64, CPU: x86_64)
+Thu Apr 19 22:27:58 2018 -> ClamAV update process started at Thu Apr 19 22:27:58 2018
+Thu Apr 19 22:27:58 2018 -> WARNING: Your ClamAV installation is OUTDATED!
+Thu Apr 19 22:27:58 2018 -> WARNING: Local version: 0.99.4 Recommended version: 0.100.0
+Thu Apr 19 22:27:58 2018 -> DON'T PANIC! Read http://www.clamav.net/documents/upgrading-clamav
+Thu Apr 19 22:28:16 2018 -> Downloading main.cvd [100%]
+Thu Apr 19 22:28:27 2018 -> main.cvd updated (version: 58, sigs: 4566249, f-level: 60, builder: sigmgr)
+Thu Apr 19 22:28:34 2018 -> Downloading daily.cvd [100%]
+Thu Apr 19 22:28:39 2018 -> daily.cvd updated (version: 24495, sigs: 1914730, f-level: 63, builder: neo)
+Thu Apr 19 22:28:39 2018 -> Downloading bytecode.cvd [100%]
+Thu Apr 19 22:28:40 2018 -> bytecode.cvd updated (version: 319, sigs: 75, f-level: 63, builder: neo)
+Thu Apr 19 22:28:44 2018 -> Database updated (6481054 signatures) from db.local.clamav.net (IP: 129.67.1.218)
+Thu Apr 19 22:28:44 2018 -> ERROR: NotifyClamd: Can't find or parse configuration file /etc/clamav/clamd.conf
+Thu Apr 19 22:28:44 2018 -> --------------------------------------
+Thu Apr 19 22:42:03 2018 -> Update process terminated
+Thu Apr 19 22:42:31 2018 -> --------------------------------------
+Thu Apr 19 22:42:31 2018 -> freshclam daemon 0.99.4 (OS: linux-gnu, ARCH: x86_64, CPU: x86_64)
+Thu Apr 19 22:42:31 2018 -> ClamAV update process started at Thu Apr 19 22:42:31 2018
+Thu Apr 19 22:42:31 2018 -> WARNING: Your ClamAV installation is OUTDATED!
+Thu Apr 19 22:42:31 2018 -> WARNING: Local version: 0.99.4 Recommended version: 0.100.0
+Thu Apr 19 22:42:31 2018 -> DON'T PANIC! Read http://www.clamav.net/documents/upgrading-clamav
+Thu Apr 19 22:42:31 2018 -> main.cvd is up to date (version: 58, sigs: 4566249, f-level: 60, builder: sigmgr)
+Thu Apr 19 22:42:31 2018 -> daily.cvd is up to date (version: 24495, sigs: 1914730, f-level: 63, builder: neo)
+Thu Apr 19 22:42:31 2018 -> bytecode.cvd is up to date (version: 319, sigs: 75, f-level: 63, builder: neo)
+Thu Apr 19 22:42:31 2018 -> --------------------------------------
+Thu Apr 19 22:45:08 2018 -> Update process terminated
+Thu Apr 19 22:46:18 2018 -> --------------------------------------
+Thu Apr 19 22:46:18 2018 -> ClamAV update process started at Thu Apr 19 22:46:18 2018
+Thu Apr 19 22:46:18 2018 -> WARNING: Your ClamAV installation is OUTDATED!
+Thu Apr 19 22:46:18 2018 -> WARNING: Local version: 0.99.4 Recommended version: 0.100.0
+Thu Apr 19 22:46:18 2018 -> DON'T PANIC! Read http://www.clamav.net/documents/upgrading-clamav
+Thu Apr 19 22:46:18 2018 -> main.cvd is up to date (version: 58, sigs: 4566249, f-level: 60, builder: sigmgr)
+Thu Apr 19 22:46:18 2018 -> daily.cvd is up to date (version: 24495, sigs: 1914730, f-level: 63, builder: neo)
+Thu Apr 19 22:46:18 2018 -> bytecode.cvd is up to date (version: 319, sigs: 75, f-level: 63, builder: neo)
+Thu Apr 19 22:46:20 2018 -> --------------------------------------
+Thu Apr 19 22:46:20 2018 -> ClamAV update process started at Thu Apr 19 22:46:20 2018
+Thu Apr 19 22:46:20 2018 -> WARNING: Your ClamAV installation is OUTDATED!
+Thu Apr 19 22:46:20 2018 -> WARNING: Local version: 0.99.4 Recommended version: 0.100.0
+Thu Apr 19 22:46:20 2018 -> DON'T PANIC! Read http://www.clamav.net/documents/upgrading-clamav
+Thu Apr 19 22:46:20 2018 -> main.cvd is up to date (version: 58, sigs: 4566249, f-level: 60, builder: sigmgr)
+Thu Apr 19 22:46:20 2018 -> daily.cvd is up to date (version: 24495, sigs: 1914730, f-level: 63, builder: neo)
+Thu Apr 19 22:46:20 2018 -> bytecode.cvd is up to date (version: 319, sigs: 75, f-level: 63, builder: neo)
+Thu Apr 19 23:40:13 2018 -> --------------------------------------
+Thu Apr 19 23:40:13 2018 -> ClamAV update process started at Thu Apr 19 23:40:13 2018
+Thu Apr 19 23:40:14 2018 -> WARNING: Your ClamAV installation is OUTDATED!
+Thu Apr 19 23:40:14 2018 -> WARNING: Local version: 0.99.4 Recommended version: 0.100.0
+Thu Apr 19 23:40:14 2018 -> DON'T PANIC! Read http://www.clamav.net/documents/upgrading-clamav
+Thu Apr 19 23:40:14 2018 -> main.cvd is up to date (version: 58, sigs: 4566249, f-level: 60, builder: sigmgr)
+Thu Apr 19 23:40:14 2018 -> daily.cvd is up to date (version: 24495, sigs: 1914730, f-level: 63, builder: neo)
+Thu Apr 19 23:40:14 2018 -> bytecode.cvd is up to date (version: 319, sigs: 75, f-level: 63, builder: neo)

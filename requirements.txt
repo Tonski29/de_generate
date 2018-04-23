@@ -1,0 +1,4 @@
+pycrypto
+sqlalchemy
+urllib3
+gnupg
